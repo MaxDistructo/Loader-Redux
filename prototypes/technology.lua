@@ -14,7 +14,7 @@ data:extend({
     prerequisites = {"logistics"},
     unit =
     {
-      count = 150,
+      count = 75,
       ingredients =
       {
         {"science-pack-1", 1},
@@ -39,7 +39,7 @@ data:extend({
     prerequisites = {"logistics-2"},
     unit =
     {
-      count = 300,
+      count = 150,
       ingredients =
       {
         {"science-pack-1", 1},
@@ -64,7 +64,7 @@ data:extend({
     prerequisites = {"logistics-3"},
     unit =
     {
-      count = 400,
+      count = 200,
       ingredients =
       {
         {"science-pack-1", 1},
